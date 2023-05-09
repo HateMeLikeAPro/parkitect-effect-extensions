@@ -96,7 +96,7 @@ namespace HateMeLikeAPro.EffectExtensions
 
 		public override string getDescription()
 		{
-			return "HateMeLikeAPro's effect extensions mod. Source and documentation: https://github.com/HateMeLikeAPro/parkitect-effect-extensions";
+			return "HateMeLikeAPro's effect extensions mod. Source and documentation are on my GitHub";
 		}
 
 		public override string getIdentifier()
